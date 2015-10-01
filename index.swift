@@ -33,7 +33,7 @@ func myFunction(name:String) {
          print("hello, my name is \(name)")
 }
 
-myFunction("Billy")
+myFunction("Billy");
 
 var me = Person()
 
